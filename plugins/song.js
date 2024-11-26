@@ -41,8 +41,8 @@ let message = `‎‎*🎧 PASIDU-MD SONG DOWNLOADER 🎧*
                         forwardingScore: 999,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterName: "👾 ＳＡＨＡＳ  |   𝚃𝙴𝙲𝙷 ジ",
-                            newsletterJid: "120363296605464049@newsletter",
+                            newsletterName: "",
+                            newsletterJid: "",
                         },
                         externalAdReply: {
                             title: `SAHAS-MD Song Downloader`,
